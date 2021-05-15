@@ -26,4 +26,4 @@ reliever velocity spectrum. This is to say I wanted to know whether low velocity
 
 
 All of the code was written in R and all of the data was collected using the baseballr package. The R file is listed and entitled Preston_ReplicationProjectCode.R
-and the written Replication Paper that covers the project far more thoroughly is listed and entitled PrestonReplicationProject.docx
+and the written Replication Paper that covers the project far more thoroughly is listed and entitled PrestonReplicationProject.pdf
